@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Android, Linux, Eclipse**
 
-- 📫 How to reach me **gnmsni333@gmail.com**
+- 📫 How to reach me **nagamanigatala@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
