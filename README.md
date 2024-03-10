@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagamanigaatala&label=Profile%20views&color=0e75b6&style=flat" alt="nagamanigaatala" /> </p>
 
-- 🌱 I’m currently learning **Java Advanced, ReactJS**
+- 🌱 I’m currently learning **Java Advanced, ReactJS, SpringBoot**
 
 - 👯 I’m looking to collaborate on **Developing role**
 
 - 👨‍💻 All of my projects are available at [https://nagamanigaatala.github.io/My_personal_portfolio2/](https://nagamanigaatala.github.io/My_personal_portfolio2/)
 
-- 💬 Ask me about **Android, Linux, Eclipse**
+- 💬 Ask me about **Android, Linux, Eclipse, Sublime Test**
 
 - 📫 How to reach me **nagamanigatala@gmail.com**
 
