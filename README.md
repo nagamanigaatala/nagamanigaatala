@@ -1,4 +1,4 @@
-![MasterHead](https://www.telestax.com/wp-content/uploads/2015/03/Dollarphotoclub_75020884.jpg)
+//![MasterHead](https://www.telestax.com/wp-content/uploads/2015/03/Dollarphotoclub_75020884.jpg)
 <h1 align="center">Hi 👋, I'm Nagamani Gaatala</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
